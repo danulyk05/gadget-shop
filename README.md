@@ -43,12 +43,12 @@ To install the project and run it locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/react_device-catalog.git
+    git clone https://github.com/username/gadget-shop.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd react_device-catalog
+    cd gadget-shop
     ```
 
 3. Install dependencies:
